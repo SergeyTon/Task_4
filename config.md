@@ -7,3 +7,4 @@
 
 `git config --global user.email "your_email@whatever.com"`
 
+[К Содержанию >](readme.md)
