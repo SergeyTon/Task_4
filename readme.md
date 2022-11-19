@@ -9,6 +9,9 @@ ___
 1. [Введение](Intro.md)
 2. [Git config](config.md)
 3. [Git init](init.md)
+4. [Git add](add.md)
+5. [Git commit](commit.md)
+
 
 
 

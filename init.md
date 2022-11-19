@@ -4,4 +4,4 @@
 
 `git init`
 
-[К Содержанию >](readme.md)
+[к содержанию >](readme.md)
