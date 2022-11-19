@@ -6,23 +6,30 @@ Lisense: [MIT](lisence.md)
 
 ___
 ## СОДЕРЖАНИЕ
-### НАЧАЛО ПРОЕКТА
+
 1. [Введение](Intro.md)
+#### НАЧАЛО ПРОЕКТА
 2. [Git config](config.md)
 3. [Git init](init.md)
 4. [Git add](add.md)
 5. [Git commit](commit.md)
 6. [Git clone](clone.md)
-### РАБОТА С УДАЛЕННЫМ РЕПОЗИТОРИЕМ
+#### РАБОТА С УДАЛЕННЫМ РЕПОЗИТОРИЕМ
 7. [Git remote add](remote_add.md)
 8. [Git fetch](fetch.md)
 9. [Git merge](merge.md)
 10. [Git pull](pull.md)
 11. [Git push](push.md)
-### ПОЛУЧЕНИЕ ДАННЫХ О СОСТОЯНИИ РЕПОЗИТОРИЯ
+#### ПОЛУЧЕНИЕ ДАННЫХ О СОСТОЯНИИ РЕПОЗИТОРИЯ
 12. [Git status](status.md)
 13. [Git log](log.md)
 14. [Git show](show.md)
+#### ФАЙЛ GITIGNORE
+15. [.Gitignore](gitignore.md)
+#### ВЕТВЛЕНИЕ
+16. [Git branch](branch.md)
+17. [Git checkout](checkout.md)
+18. [Git checkout -b](checkout_b.md)
 
 
 
