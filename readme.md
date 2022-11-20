@@ -7,7 +7,7 @@ Lisense: [MIT](lisence.md)
 ___
 ## СОДЕРЖАНИЕ
 
-[ВВЕДЕНИЕ](Introdac.md)
+[ВВЕДЕНИЕ](introdac.md)
 
 [НАЧАЛО ПРОЕКТА](begin.md)
 
