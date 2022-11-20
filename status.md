@@ -4,6 +4,6 @@
 
 `git status`
 
-[в раздел](cond_rep.md)
+[в раздел >](cond_rep.md)
 
 [к содержанию >](readme.md)

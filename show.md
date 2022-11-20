@@ -4,6 +4,6 @@
 
 `git show [хэш]`
 
-[в раздел](cond_rep.md)
+[в раздел >](cond_rep.md)
 
 [к содержанию >](readme.md)

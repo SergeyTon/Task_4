@@ -4,4 +4,6 @@
 
 `git remote add origin https://github.com/sergeyton/example`
 
+[в раздел >](work_rep.md)
+
 [к содержанию >](readme.md)

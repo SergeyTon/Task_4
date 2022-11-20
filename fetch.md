@@ -4,4 +4,6 @@
 
 `git fetch`
 
+[в раздел >](work_rep.md)
+
 [к содержанию >](readme.md)
