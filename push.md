@@ -4,4 +4,6 @@
 
 `git push`
 
+[в раздел >](begin.md)
+
 [к содержанию >](readme.md)

@@ -4,4 +4,6 @@
 
 `git log`
 
+[в раздел](cond_rep.md)
+
 [к содержанию >](readme.md)

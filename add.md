@@ -8,4 +8,6 @@
 
 `git add .`
 
+[в раздел >](begin.md)
+
 [к cодержанию >](readme.md)

@@ -4,4 +4,6 @@
 
 `git clone https://github.com/sergeyton/example`
 
+[в раздел >](begin.md)
+
 [к содержанию >](readme.md)

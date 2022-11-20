@@ -3,5 +3,6 @@
 
 `git checkout -b second`
   
+[в раздел >](branch_make.md)
 
 [к содержанию >](readme.md)
