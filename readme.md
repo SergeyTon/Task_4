@@ -26,5 +26,5 @@ ___
 
 
 ------
-Git logo by Jason Long - https://git-scm.com/downloads/logos,
+Git logo by Jason Long - https://git-scm.com/downloads/logos,<br>
 lisense: [CC by 3.0](https://creativecommons.org/licenses/by/3.0/)
