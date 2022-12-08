@@ -27,4 +27,7 @@ ___
 
 ------
 Git logo by JASON LONG - https://git-scm.com/downloads/logos,<br>
-lisense: [CC by 3.0](https://creativecommons.org/licenses/by/3.0/)
+lisense: [CC by 3.0][def]
+
+
+[def]: https://creativecommons.org/licenses/by/3.0/
